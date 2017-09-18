@@ -1,7 +1,7 @@
 # mac-chrome-cross
-mac上设置新版chrome浏览器跨域
+# mac上设置新版chrome浏览器跨域
 ___
-设置方法
+*设置方法*
 
 打开一个新的可跨域的chrome窗口实现方法：
 
@@ -11,11 +11,11 @@ ___
 
 ```open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/yourname/MyChromeDevUserData/```
 
-注意
+*注意*
 
 网上有些文章--user-data-dir参数后面没有添加文件夹名，是设置不成功的。
 
-发现
+*发现*
 
 第一次打开chrome有黄色背景色的“--disable-web-security”相关的提示，说明浏览器设置跨域成功。
 
