@@ -9,7 +9,7 @@ ___
 
 2. 输入下面的命令( 需要替换路径中的yourname )
 
-`open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/yourname/MyChromeDevUserData/`
+```open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/yourname/MyChromeDevUserData/```
 
 注意
 
