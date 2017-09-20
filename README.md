@@ -14,7 +14,7 @@ open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-
 
 **注意**
 
-网上有些文章--user-data-dir参数后面没有添加文件夹名，是设置不成功的。
+网上有些文章`--user-data-dir`参数后面没有添加文件夹名，是设置不成功的。
 
 **发现**
 
