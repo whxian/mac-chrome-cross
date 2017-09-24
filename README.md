@@ -18,7 +18,7 @@ open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-
 
 **发现**
 
-第一次打开chrome有黄色背景色的“--disable-web-security”相关的提示，说明浏览器设置跨域成功。
+第一次打开chrome有黄色背景色的 “--disable-web-security” 相关的提示，说明浏览器设置跨域成功。
 
 再次用执行上面的命令行时，不会再有相关提示了，但是还是能跨域的！
 
